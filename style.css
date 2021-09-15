@@ -1,6 +1,19 @@
 h1{
-	color:white;
+	color:#e7ddf0;
 }
+
+h2{
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+li{
+	color:#f0ddef;
+}
+
 body{
 	background-color: #5c5363;
 }
