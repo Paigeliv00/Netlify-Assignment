@@ -1,5 +1,6 @@
 h1{
 	color:#e7ddf0;
+	font-family: Glory;
 }
 
 h2{
@@ -12,6 +13,10 @@ p{
 
 li{
 	color:#f0ddef;
+}
+
+a{
+	color:#fc3d60;
 }
 
 body{
