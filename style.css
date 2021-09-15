@@ -7,14 +7,17 @@ h1{
 h2{
 	color: white;
 	font-family: Nunito;
+	font-size: 20pt;
 }
 
 p{
 	color: white;
+	font-family: Hind Siliguri;
 }
 
 li{
 	color:#f0ddef;
+	font-family: Questrial;
 }
 
 a{
